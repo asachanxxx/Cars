@@ -1,0 +1,12 @@
+Complete Non Hybrid Check - 3500
+Complete Hybrid Check - 4000
+
+-accedents
+-Flood Damage
+-Stolen
+-Repainted
+-ECU Malfunction
+-Warning Lights
+-Noises
+-Engine Problems
+-Exhaust Problems
